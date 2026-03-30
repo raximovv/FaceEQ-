@@ -1,4 +1,4 @@
-# FaceEQ-
+# FaceEQ
 What it does
 Tracks your face via webcam using MediaPipe. Turn your head left or right to rewind or fast-forward a track. Tilt up or down to change playback speed. Your head becomes a rotary encoder.
 
